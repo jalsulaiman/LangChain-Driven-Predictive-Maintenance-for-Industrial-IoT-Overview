@@ -71,9 +71,9 @@ If you are a recruiter, potential collaborator, or academic reviewer, please **[
 
 ## 👤 Contributors
 **Jude Al-Sulaiman** — Computer Engineering Graduate  
-**Dana Salah** — Computer Engineering Graduate
-**Fatemah AlShammari** — Computer Engineering Student
-**Nour AlHashash** — Computer Engineering Graduate  
+**Dana Salah** — Computer Engineering Graduate  
+**Fatemah AlShammari** — Computer Engineering Student  
+**Nour AlHashash** — Computer Engineering Graduate    
 
 ---
 
