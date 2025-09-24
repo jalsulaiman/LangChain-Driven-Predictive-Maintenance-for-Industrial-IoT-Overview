@@ -45,14 +45,14 @@ Our system addresses these gaps by combining:
 ---
 
 ## 📊 System Architecture
-![System Architecture Diagram](images/system-architecture.png)  
+![System Architecture Diagram](images/System-Block-Diagram.png)  
 
 ---
 
 ## 📷 Project Gallery
-| Project Poster | Hardware Setup | Chatbot Interface | Maintenace Dashborad Interface |
-|---|---|---|---|
-| ![Hardware](images/hardware.jpg) | ![Chatbot](images/chatbot.png) | ![Flow](images/dataflow.png) |
+| Project Poster | Hardware Setup | Chatbot Interface | Chatbot Sample | Maintenace Dashborad |
+|---|---|---|---|---|
+| ![Poster](images/Poster.png) | ![Hardware](images/Hardware-Setup.png) | ![Chatbot](images/Chatbot-Interface.png) | ![Chatbot Sample](images/Chatbot-Sample.png) | ![Maintenace Dashborad ](images) |
 
 ---
 
